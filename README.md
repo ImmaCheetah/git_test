@@ -1,0 +1,1 @@
+This is Davit's first git project
